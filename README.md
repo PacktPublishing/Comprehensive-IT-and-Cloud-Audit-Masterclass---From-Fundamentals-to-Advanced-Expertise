@@ -1,1 +1,2 @@
 # Comprehensive-IT-and-Cloud-Audit-Masterclass---From-Fundamentals-to-Advanced-Expertise
+This is the code repository for **Comprehensive IT and Cloud Audit Masterclass - From Fundamentals to Advanced Expertise**, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
